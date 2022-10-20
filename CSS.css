@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+  }
+  
+  img {
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 300px;
+  }
